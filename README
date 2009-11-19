@@ -1,0 +1,26 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2858
+
+*textobj-fatpack* is a Vim plugin to provide many kinds of |text-objects|.  In
+other words, this is a meta package which includes the following plugins to
+provide various text objects:
+
+|textobj-datetime| 0.3.1 (vimscript#2101)    Date and time
+|textobj-diff|     0.0.0 (vimscript#2415)    Diff hunk
+|textobj-entire|   0.0.1 (vimscript#2610)    Entire buffer
+|textobj-fold|     0.1.2 (vimscript#2275)    Folding
+|textobj-function| 0.1.0 (vimscript#2619)    Function
+|textobj-indent|   0.0.3 (vimscript#2484)    Indented block
+|textobj-jabraces| 0.1.1 (vimscript#2276)    Japanese braces
+|textobj-lastpat|  0.0.0 (vimscript#2355)    Last search pattern
+|textobj-syntax|   0.0.0 (vimscript#2716)    Syntax highlighted item
+|textobj-user|     0.3.8 (vimscript#2100)    For your own one
+
+
+Requirements:
+- Vim 7.2 or later
+
+Latest version:
+http://github.com/kana/vim-textobj-fatpack
+
+Document in HTML format:
+http://kana.github.com/config/vim/textobj-fatpack.html
